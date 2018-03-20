@@ -1,0 +1,67 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url(coffee.jpg);
+  background-size: auto;
+  background-repeat: no-repeat;
+  text-shadow: .5px .5px black;
+  color:white;
+
+}
+img{
+  height: 200px;
+}
+
+
+.welcome{
+  background: none;
+  color:white;
+  border-radius: 5px;
+  border: none;
+
+}
+
+.complete{
+    color: green;
+
+}
+
+.messages{
+  background:none;
+  border-radius: 5px;
+  border: none;
+}
+#makeBlack{
+  color:black;
+}
+#makeGreen{
+  color:red;
+}
+#qTitle{
+  background: none;
+  border: none;
+  border-radius: 5px;
+  margin-top: -2px;
+}
+
+button{
+  box-shadow:none;
+  background: #26C281;
+  color:white;
+  border-radius: 5px;
+  border: 0;
+  width: 20%;
+  height: 40px;
+
+}
+input{
+  height:40px;
+}
+
+form, #formHead{
+  text-align: center;
+}
+
+.jumbotron, .text-center{
+  background: none;
+}

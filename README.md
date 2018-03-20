@@ -1,2 +1,13 @@
-# Cafe-App
-My cafe app is designed to take a user login/signup and direct you to a order menu that you can plug in orders to you will also have more options as an admin where you can complete orders and sign off on who done so.
+## Installation
+
+1. Clone repo
+2. run `npm install`
+
+## Usage
+
+1. run `node server.js`
+2. Navigate to `localhost:8080`
+
+## Credit
+
+Modified from Scotch.io's auth tutorial
