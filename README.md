@@ -8,7 +8,7 @@
 1. run `node server.js`
 2. Navigate to `localhost:8080`
 
-# Hard-work-and-dedication
+# We Node what you want Cafe App
 This is my heart and soul in an app I am putting together all my current knowledge of html, css, node, express, and javascript to bring my dream into reality please look at my thoughts.
 
 **Link to project:** https://github.com/Rizz311/Hard-work-and-dedication
